@@ -1,2 +1,2 @@
 # WordFinder
-The application implements q Word Search Puzzles.
+The application implements a Word Search Puzzles.
