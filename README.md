@@ -1,2 +1,2 @@
 # WordFinder
-The application finds a word in a text
+The application implements q Word Search Puzzles.
